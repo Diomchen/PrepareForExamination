@@ -25,7 +25,7 @@
                   佛祖保佑             不要挂科
 ~~~
 ## 项目结构
-- 备战期末
+- [备战期末](https://github.com/Diomchen/PrepareForExamination/tree/master/%E5%A4%87%E6%88%98%E6%9C%9F%E6%9C%AB)
     + [🎷操作系统](https://github.com/Diomchen/PrepareForExamination/blob/master/%E5%A4%87%E6%88%98%E6%9C%9F%E6%9C%AB/%F0%9F%8E%B7%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F.md)
     + [🎺计算机网络](https://github.com/Diomchen/PrepareForExamination/blob/master/%E5%A4%87%E6%88%98%E6%9C%9F%E6%9C%AB/%F0%9F%8E%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md)
     + [算法](https://github.com/Diomchen/PrepareForExamination/blob/master/%E5%A4%87%E6%88%98%E6%9C%9F%E6%9C%AB/%E7%AE%97%E6%B3%95.md)
